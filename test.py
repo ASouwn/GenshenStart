@@ -1,3 +1,3 @@
-from whiteCheck import check
+from project.whiteCheck import check
 
 check()
